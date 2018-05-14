@@ -1,4 +1,9 @@
 * **A successful Git branching model**
 
   * Original Post: `http://nvie.com/posts/a-successful-git-branching-model/`
-  * Personal Archive: `https://drive.google.com/open?id=1cqLAWG8C7rdigNLleEDKBjd15D-7KzkZ`
+  * My Personal Archive: `https://drive.google.com/open?id=1cqLAWG8C7rdigNLleEDKBjd15D-7KzkZ`
+  
+* **How Bayesian inference works**
+
+  * Original Post: `https://brohrer.github.io/how_bayesian_inference_works.html`
+  * My Personal Archive: `https://drive.google.com/open?id=1gBif_GC9_XyeZ3TjOiKmzvQe83UEIJ6W`
