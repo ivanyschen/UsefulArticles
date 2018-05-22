@@ -7,3 +7,8 @@
 
   * Original Post: `https://brohrer.github.io/how_bayesian_inference_works.html`
   * My Personal Archive: `https://drive.google.com/open?id=1gBif_GC9_XyeZ3TjOiKmzvQe83UEIJ6W`
+
+* **Understanding SettingwithCopyWarning in pandas**
+
+  * Original Post: `https://www.dataquest.io/blog/settingwithcopywarning/`
+  * My Personal Archive: `https://drive.google.com/open?id=1SC9lOw1B9YwHfmJhj4p8h8OdkQCrWdzn`
