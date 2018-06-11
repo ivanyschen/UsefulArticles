@@ -12,3 +12,7 @@
 
   * Original Post: `https://www.dataquest.io/blog/settingwithcopywarning/`
   * My Personal Archive: `https://drive.google.com/open?id=1SC9lOw1B9YwHfmJhj4p8h8OdkQCrWdzn`
+  
+* **Garbage collection in Python: things you need to know**
+
+  * Original Post: `https://rushter.com/blog/python-garbage-collector/`
